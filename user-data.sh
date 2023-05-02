@@ -53,3 +53,4 @@ echo "FLUSH PRIVILEGES;" >> /tmp/db.setup
 mysql -u root --password=$DBRootPassword < /tmp/db.setup
 sudo rm /tmp/db.setup
 echo "hello"
+echo "How are You"
