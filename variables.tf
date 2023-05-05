@@ -24,4 +24,4 @@ variable "desired_capacity" {
   description = "Minimum number of instances launched"
   type        = number
   default     = 1
-}
+echo "welcome to devops update by dev 2"
